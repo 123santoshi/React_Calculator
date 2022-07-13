@@ -1,0 +1,52 @@
+.app{
+  text-align:center;
+  margin:5px auto;
+  display:flex;
+  justify-content:center;
+  flex-direction:column;
+  padding:5px 5px;
+  border:2px solid black;
+  background:blueviolet
+}
+.heading{
+  color:white;
+  font-size:20px;
+  text-align:center;
+}
+.input1{
+  padding:5px;
+  font-size:25px;
+  border:2px solid black;
+  
+}
+.input1:hover{
+  background:silver;
+  color:black;
+  font-size:25px;
+}
+.check{
+  padding:10px 20px;
+  border:2px solid transparent;
+  font-size:20px;
+  color:red;
+  background:silver;
+}
+.b1{
+  margin:10px;
+  padding:15px;
+  color:black;
+  background:silver;
+  
+  
+}
+.b1:hover,.b2:hover{
+  color:red;
+  background:green;
+}
+.b2{
+  margin:10px;
+  padding:15px ;
+  font-weight:bold;
+  background:silver;
+
+}
